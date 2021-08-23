@@ -1,3 +1,6 @@
+- Sample to-do with state using hooks,
+- Example of a class based component
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
