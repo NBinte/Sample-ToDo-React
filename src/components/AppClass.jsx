@@ -23,8 +23,8 @@ export default class AppClass extends Component {
           id: 3,
           title: "Take over the world",
           isCompleted: false,
-        },
-      ],
+        }
+      ]
     };
   }
 

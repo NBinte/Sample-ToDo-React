@@ -19,7 +19,7 @@ function App() {
       id: 3,
       title: "Take over the world",
       isCompleted: false,
-    },
+    }
   ]);
 
   return (

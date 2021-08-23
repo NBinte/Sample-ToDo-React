@@ -1,15 +1,15 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import "./css/index.css";
-//import App from "./components/App";
-import AppClass from "./components/AppClass";
+import App from "./components/App";
+//import AppClass from "./components/AppClass";
 //import AppOld from './components/AppOld';
 import reportWebVitals from "./js/reportWebVitals";
 
 ReactDOM.render(
   <React.StrictMode>
-    {/* <App /> */}
-    <AppClass />
+    <App />
+    {/* <AppClass/> */}
   </React.StrictMode>,
   document.getElementById("root")
 );
